@@ -58,7 +58,7 @@ const alumniSpotlightItems: AlumniSpotlightItem[] = [
     founders: "Natalia Murillo, Conner Chyung, Ivy Tsang",
     name: "Koop",
     logo: logo_koop,
-    description: "NFT-based membership passes.",
+    description: "Group investing made easy.",
     metrics: "$5m seed round.",
   },
   {
