@@ -6,7 +6,7 @@ interface TeamMemberProps {
     name: string;
     role: string;
     cohort: string;
-    image: StaticImageData;
+    image: StaticImageData | string;
     url: string;
   };
 }
