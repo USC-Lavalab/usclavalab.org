@@ -361,7 +361,7 @@ export const startups: Startup[] = [
         role: "Designer",
         image: "/founders/f25/jo.png",
         bio: "PR & Advertising @ USC. With backgrounds in entertainment, marketing, and startups, he is a product designer committed to creating cool consumer experiences.",
-        linkedin: "https://www.linkedin.com/in/joseph-choi-051b8a288/",
+        linkedin: "https://www.linkedin.com/in/joseph-jo-choi/",
       },
       {
         name: "Ka'ren Mkrtchyan",
