@@ -57,13 +57,13 @@ export default function Hero() {
           USC’s premier, student-run, product incubator.
         </p>
         <div className="space-x-4">
-          <Link
+          {/* <Link
             href={"https://forms.gle/h7fnCb1HURRs62o67"}
             target="_blank"
             className={buttonVariants()}
           >
             Apply for Spring 2026
-          </Link>
+          </Link> */}
           <Link
             href={"mailto:lavalab@usc.edu"}
             className={buttonVariants({ variant: "outline" })}
