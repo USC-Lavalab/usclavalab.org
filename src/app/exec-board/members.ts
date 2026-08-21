@@ -50,7 +50,7 @@ const members = [
   },
   {
     name: "Ronnie Cheung",
-    role: "Co-Director of Internal Community",
+    role: "Alumni Director of Community",
     cohort: "Cohort S'26",
     image: "/founders/s26/ronnie.png",
     url: "https://www.linkedin.com/in/ronnie-cheung/",
